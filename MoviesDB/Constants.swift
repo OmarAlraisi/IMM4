@@ -10,7 +10,7 @@ import Foundation
 
 struct Constants {
     
-    static var API_KEY = "994b3817"
+    static var API_KEY = "Change Me" // Add your API Key here
     
     // This is to get movies related to the search
     static var SEARCH_WORD = ""
